@@ -1,0 +1,14 @@
+{
+  "name": "Tuniflix",
+  "description": "Extension Cloudstream pour Tuniflix.site",
+  "manifestVersion": 1,
+  "pluginList": [
+    {
+      "name": "Tuniflix",
+      "description": "Accès à Tuniflix.site",
+      "version": 1,
+      "package": "com.cloudstream.tuniflix",
+      "url": "Tuniflix/build.gradle.kts"
+    }
+  ]
+}
