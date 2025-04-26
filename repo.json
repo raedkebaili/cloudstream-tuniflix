@@ -7,7 +7,7 @@
       "name": "Tuniflix",
       "package": "com.example",
       "language": "kotlin",
-      "url": "Tuniflix.zip",
+      "url": "https://raw.githubusercontent.com/raedkebaili/cloudstream-tuniflix/main/Tuniflix.zip",
       "version": "1.0.0"
     }
   ]
